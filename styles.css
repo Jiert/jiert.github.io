@@ -19,3 +19,8 @@ body {
   margin-bottom: 50px;
   box-shadow: 0 0 100px 60px #171616
 }
+
+
+#project-grid img {
+  max-height: 200px;
+}
