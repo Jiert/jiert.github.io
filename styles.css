@@ -25,5 +25,10 @@ body {
 }
 
 #project-grid img {
-  max-height: 145px;
+  max-height: 95px;
+}
+
+#project-grid img.featured-img {
+  max-height: none;
+  width: 100%;
 }
